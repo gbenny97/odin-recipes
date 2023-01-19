@@ -1,0 +1,17 @@
+.header {
+    background-color: green;
+    color: yellowgreen;
+    text-align: center;
+    font-family: arial;
+}
+.font-change {
+    font-family: Garamond, Georgia;
+}
+
+.ingredient {
+    font-size: 18px;
+}
+.description{
+    text-align: center;
+    font-family: Garamond, Georgia;
+}
